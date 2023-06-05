@@ -1,0 +1,4 @@
+com\example\spring\datajpa\controller\BookController.class
+com\example\spring\datajpa\SpringBootDataJpaApplication.class
+com\example\spring\datajpa\repository\BookRepository.class
+com\example\spring\datajpa\model\Book.class
